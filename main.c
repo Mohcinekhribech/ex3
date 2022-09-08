@@ -10,6 +10,6 @@ int main()
         M+=50000;
         i++;
     }
-    printf("%d",i);
+    printf(" les annees de la population de la ville Agadir d�passera celle de la ville Marrakech : %d",i);
     return 0;
 }
